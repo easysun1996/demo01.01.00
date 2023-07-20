@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/easysun1996/demo01.01.00.git/static/css/main.aae02428.css",
+    "main.js": "/easysun1996/demo01.01.00.git/static/js/main.6d8fa397.js",
+    "index.html": "/easysun1996/demo01.01.00.git/index.html",
+    "main.aae02428.css.map": "/easysun1996/demo01.01.00.git/static/css/main.aae02428.css.map",
+    "main.6d8fa397.js.map": "/easysun1996/demo01.01.00.git/static/js/main.6d8fa397.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aae02428.css",
+    "static/js/main.6d8fa397.js"
+  ]
+}

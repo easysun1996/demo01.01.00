@@ -1,0 +1,37 @@
+// @import url("https://contents.kyobobook.co.kr/pmtn/common/temp/ver3/temp_common.css");
+// @import url("https://contents.kyobobook.co.kr/pmtn/common/temp/ver3/temp05.css");
+// @import url("https://unpkg.com/swiper@8/swiper-bundle.min.css");
+
+*{margin: 0 auto;}
+h1,h2,h3{text-align: center;}
+h1{font-size: 20px; margin-bottom: 10px;}
+
+.d_title_txt_wrap{ margin: 0 auto;}
+.d_title_txt, .d_sub_txt {text-align: center; 
+    width: 500px; 
+    display: block; margin: 0 auto; 
+    letter-spacing: 1.2; word-break: break-all;}
+.d_title_txt{font-size: 45px; margin-bottom: 20px;}
+.d_sub_txt{font-size: 30px; margin-bottom: 40px;}
+
+// btn
+.d_add_slide_btn{display: block; text-align: center;}
+.d_add_file{display: block; text-align: center; margin-bottom: 20px;}
+.d_delet_slide{display: block; text-align: center; 
+    width: 80px; height: 40px; font-size: 20px;}
+
+.swiper{width: 400px; display: block; position: relative;}
+.swiper-wrapper{width: 400px; height: 600px; margin-bottom: 20px;}
+.swiper-wrapper .swiper-slide { width: 400px; justify-content: center;  
+    background-color: aquamarine;}
+
+.d_add_slide{width: 80px; height: 80px; 
+    display: block; margin: 0 auto; 
+    font-size: 50px; line-height: 40px; cursor: pointer; border-radius: 50%;}
+
+//image
+ .d_book_img{
+    width: 80%; height: 500px; overflow: hidden;
+    margin-bottom: 20px;
+    img{object-fit: cover; width: 100%; }
+ }
